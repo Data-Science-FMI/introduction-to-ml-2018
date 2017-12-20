@@ -48,7 +48,7 @@ simplegeneric==0.8.1
 six==1.11.0
 terminado==0.8.1
 testpath==0.3.1
-torch==http://download.pytorch.org/whl/cu80/torch-0.3.0.post4-cp36-cp36m-linux_x86_64.whl
+http://download.pytorch.org/whl/cu80/torch-0.3.0.post4-cp36-cp36m-linux_x86_64.whl 
 torchvision==0.2.0
 tornado==4.5.2
 traitlets==4.3.2
