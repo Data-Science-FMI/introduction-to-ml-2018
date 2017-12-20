@@ -3,4 +3,4 @@ iPython notebooks &amp; slides for Introduction to Machine Learning with PyTorch
 
 ## Slides
 
-The slides for this course can be found here: https://drive.google.com/open?id=1R6qb6el7asBVB4koAaRxysVVbMxcg5es 
+The slides for this course can be found here: [ML Slides](https://drive.google.com/open?id=1R6qb6el7asBVB4koAaRxysVVbMxcg5es)
