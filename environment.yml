@@ -1,6 +1,7 @@
 name: ml-2018
 channels:
 - conda-forge
+- pytorch
 dependencies:
   - python=3.6.3
   - numpy
@@ -12,5 +13,5 @@ dependencies:
   - jupyter
   - jupyterlab
   - notebook
-  - pytorch -c pytorch
-  - torchvision -c pytorch
+  - pytorch
+  - torchvision
