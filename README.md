@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Data-Science-FMI/introduction-to-ml-2018/master)
+
 # introduction-to-ml-2018
 
 iPython notebooks &amp; slides for Introduction to Machine Learning with PyTorch class in FMI Plovdiv (2018)
