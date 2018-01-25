@@ -19,5 +19,6 @@ print(torch.cuda.get_device_name(0))
 
 # Learn
 
+- [Computational Graphs in PyTorch](https://jdhao.github.io/2017/11/12/pytorch-computation-graph/)
 - [How neural networks are trained](https://ml4a.github.io/ml4a/how_neural_networks_are_trained/)
 - [Understanding Learning Rates and How It Improves Performance in Deep Learning](https://towardsdatascience.com/understanding-learning-rates-and-how-it-improves-performance-in-deep-learning-d0d4059c1c10)
