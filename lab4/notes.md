@@ -1,0 +1,2 @@
+- [Cifar 10 Challenge](https://www.kaggle.com/c/cifar-10)
+- Free GPU (Tesla K80) by [Google Colaboratory](https://colab.research.google.com/)
