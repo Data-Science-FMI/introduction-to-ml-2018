@@ -2,7 +2,7 @@
 # Notebooks
 
 - [Neural Networks](https://drive.google.com/open?id=1mZYsRnifF2_sOtyZnMkRliJmqfmI3vSb)
-- [Classifying Digits](https://drive.google.com/open?id=1mZYsRnifF2_sOtyZnMkRliJmqfmI3vSb)
+- [Classifying Digits](https://drive.google.com/open?id=1NKOJh1M71a-mrVSU2N9a3YK5whaj3y1A)
 
 # Resources
 
