@@ -10,6 +10,7 @@
 - [Image Kernels Explained Visually](http://setosa.io/ev/image-kernels/)
 - [Deep Visualization Toolbox](https://www.youtube.com/watch?v=AgkfIQ4IGaM)
 - [CS231n Convolutional Neural Networks (CNNs / ConvNets)](https://cs231n.github.io/convolutional-networks/)
+- [How Convolutional Neural Networks work](https://www.youtube.com/watch?v=FmpDIaiMIeA)
 - [A Short Introduction to Entropy, Cross-Entropy and KL-Divergence](https://www.youtube.com/watch?v=ErfnhcEV1O8)
 
 # Courses
