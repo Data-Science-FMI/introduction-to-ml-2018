@@ -4,6 +4,7 @@
 
 # Resources
 
+- [Getting Started with Gym](https://gym.openai.com/docs/)
 - [A Closed-form Solution to Photorealistic Image Stylization](https://arxiv.org/abs/1802.06474)
   - [Code on GitHub](https://github.com/NVIDIA/FastPhotoStyle)
 - [MIT 6.S094: Deep Reinforcement Learning](https://www.youtube.com/watch?v=MQ6pP65o7OM)
