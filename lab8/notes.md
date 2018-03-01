@@ -1,3 +1,7 @@
+# Slides
+
+- [Reinforcement Learning](https://docs.google.com/presentation/d/1u57m9Nk3DU_Td5SuaBN6JEv9A0PnyKWeB1DOqIxcDAo/edit?usp=sharing)
+
 # Notebooks
 
 - [Solving CartPole with Reinforcement Learning](https://drive.google.com/file/d/1jli9b1DXfF9bmhOs0XUvHRBAvFCXt6Ck/view?usp=sharing)
