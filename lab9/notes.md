@@ -11,6 +11,10 @@
 - [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)
 - [Lucid - tools for neural network interpretability ](https://github.com/tensorflow/lucid)
 
+# Videos
+
+- [MIT AGI: Computational Universe (Stephen Wolfram)](https://www.youtube.com/watch?v=P7kX7BuHSFI)
+
 # Courses
 
 - [MACHINE LEARNING AND PATTERN RECOGNITION 2017, University of Edinburgh](https://www.inf.ed.ac.uk/teaching/courses/mlpr/2017/)
