@@ -1,6 +1,6 @@
 # Notebooks
 
-- [Creating Neural Network from Scratch]()
+- [Creating Neural Network from Scratch](https://drive.google.com/file/d/1HuInQ14sxR0BtGyQhSiUfE9vn73A6-Kx/view?usp=sharing)
 
 # Backpropagation
 
