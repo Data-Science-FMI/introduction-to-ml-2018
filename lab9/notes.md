@@ -23,6 +23,7 @@
 - [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)
 - [Lucid - tools for neural network interpretability ](https://github.com/tensorflow/lucid)
 - [PyToune - simplify PyTorch deep learning model training](https://github.com/GRAAL-Research/pytoune)
+- [Open Sourcing the Hunt for Exoplanets](https://research.googleblog.com/2018/03/open-sourcing-hunt-for-exoplanets.html)
 
 # Videos
 
